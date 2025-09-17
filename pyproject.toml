@@ -23,4 +23,5 @@ dependencies = [
     "scipy>=1.16.2",
     "seaborn>=0.13.2",
     "spark>=0.2.1",
+    "xlwings>=0.33.15",
 ]

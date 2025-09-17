@@ -10,3 +10,4 @@ wheels/
 .venv
 /datasets
 /dataprocess
+/html_out
